@@ -1,0 +1,742 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Booke in meeter of Robin Conscience against his father Couetou[sne]sse, his mother N[ewgise and h]is sister Proud Bea[utye] [very necessar]y to be read and marked of all people that will auoide the dangers thereof, which is unto condemnation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19218</idno>
+            <idno type="STC">STC 5633.3</idno>
+            <idno type="STC">ESTC S1575</idno>
+            <idno type="EEBO-CITATION">20214722</idno>
+            <idno type="OCLC">ocm 20214722</idno>
+            <idno type="VID">23841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 23841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1707:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Booke in meeter of Robin Conscience against his father Couetou[sne]sse, his mother N[ewgise and h]is sister Proud Bea[utye] [very necessar]y to be read and marked of all people that will auoide the dangers thereof, which is unto condemnation.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Newly corrected by the author.</edition>
+               </editionStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Allde,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1590?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dialogue in verse.</note>
+                  <note>Title in ornamental border.</note>
+                  <note>Bracketed title information suggested by STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>Place and name of publisher form colophon; date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Imperfect: pages faded and stained.</note>
+                  <note>"Formerly STC 5632"-STC (2nd ed.)</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moralities, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:23841:1"/>
+            <pb facs="tcp:23841:1" rendition="simple:additions"/>
+            <p>THE Booke in me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter of <hi>Robin Conſcience:</hi> againſt his Father Co<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, <hi>his Mother <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is</hi> Siſter <hi>Proud Bea<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of all peo<g ref="char:EOLhyphen"/>ple that will anoide the dan<g ref="char:EOLhyphen"/>gers thereof; which is <hi>vnto condemna<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Newly corrected by the <hi>Author.</hi>
+            </p>
+            <q>
+               <bibl>Abacuc. 2.</bibl>
+               <p>Curſſed be he that getteth any thing in<g ref="char:EOLhyphen"/>to his houſe by Couetouſnes.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Eſay.</hi> 33.</bibl>
+               <p>He ſhall dwell with God that is without Couetouſnes.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:23841:2"/>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> way with Gods woord will not agrée.</l>
+               <l>Wherefore good Father in time héere repent:</l>
+               <l>And haue a reſpect vnto Chriſts Teſtament.</l>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <l>What Robin me thinks thou haſt little wit,</l>
+                  <l>Dooſt thou think ſcorne to come to promotion:</l>
+                  <l>To marry with gentills I trow it is fit,</l>
+                  <l>Hauing with them of money a good portion,</l>
+                  <l>
+                     <note place="margin">Beware of extortion</note>What though it be gotten by craft and extortion.</l>
+                  <l>By the Maſſe it is all my delight and pleaſure:</l>
+                  <l>To haue héere aboundance of worldly treaſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>By extortion Father? mary God it forefend,</l>
+                  <l>That any Chriſtian man therin ſhould delight:</l>
+                  <l>Father giue me no ſtolne goods, my welth to amend,</l>
+                  <l>Vnleſſe I doo liue by the poore mans right,</l>
+                  <l>As I feare that ſome doo both Lord and Knight.</l>
+                  <l>Wherfore <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Father <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> time heere repent:</l>
+                  <l>And haue a reſpect vnto Chriſts Teſtament.</l>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <l>Ah Robin I perceiue now ſo God me ſaue,</l>
+                  <l>That thou wilt be but a meane gentleman:</l>
+                  <l>Séeing you be ſuch a Conſcionable knaue,</l>
+                  <l>
+                     <note place="margin">A ſhame<g ref="char:EOLhyphen"/>les aunſ<g ref="char:EOLhyphen"/>wer for a Parent.</note>Goe ſéeke thou thy liuing where that thou can,</l>
+                  <l>Tuſh, what care I though the people me ban.</l>
+                  <l>By the Maſſe it is all my delight and pleaſure:</l>
+                  <l>To haue heere aboundance of worldly treaſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Oh Father ſéeke firſt héere the kingdome of Heauen,</l>
+                  <l>And gather you vp of Gods treaſure therin to lay:</l>
+                  <l>And not wicked Mammon to fulfill the ſinnes ſeuen,</l>
+                  <l>for that were a very right damnable way,</l>
+                  <l>Remember Father that you be but earth and clay.</l>
+                  <l>Wherfore good Father I pray you yet repent:</l>
+                  <l>And haue a reſpect vnto Chriſts Teſtament.</l>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <l>Robin, wouldſt thou not haue me to buy and ſell?</l>
+                  <pb facs="tcp:23841:2" rendition="simple:additions"/>
+                  <l>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> buy &amp; ſell and keepe in ſtore, ſo it be doon lawfully, and in a right can<g ref="char:punc">▪</g>
+                     </note>Nor yet to kéepe in ſtore for to doo me good?</l>
+                  <l>By the maſſe if I follow thée or the Goſpell,</l>
+                  <l>At the length I might chance to lye in my hood,</l>
+                  <l>Tuſh I will be counted heere for a luſty blood.</l>
+                  <l>Séeing it is all my delight and pleaſure:</l>
+                  <l>I will haue aboundance of worldly treaſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Father you haue enough if you haue not too much,</l>
+                  <l>For this I dare be holde héere to auow:</l>
+                  <l>You haue ten times more ground and money in your hutch,</l>
+                  <l>Then euer had my Grand-ſire you will this allow,</l>
+                  <l>Yet he kept a better houſe then euer did you.</l>
+                  <l>Wherfore good Father amend and repent:</l>
+                  <l>And haue a reſpect vnto Chriſts Teſtament.</l>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <l>Tuſh Robin thy talke is fooliſh and fond,</l>
+                  <l>I know thy minde that thou goeſt about:</l>
+                  <l>Thou wouldſt haue me liue only by my land,</l>
+                  <l>
+                     <note place="margin">Be liberal vnto the poore.</note>And to kéepe open houſe for euery Iack rout,</l>
+                  <l>No, I will feaſt none but the rufling rout.</l>
+                  <l>For it is all my delight and pleaſure:</l>
+                  <l>To haue héere aboundance of worldly treaſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Father, I would haue you to liue ſo that God may be pleaſed</l>
+                  <l>And for your good life, God will giue you méede:</l>
+                  <l>Father ſpend your goods ſo that the poore may be eaſed,</l>
+                  <l>For your riches be lent you to doo ſuch a deede,</l>
+                  <l>And do not ſpend all on the rich, for they haue no néede,</l>
+                  <l>Wherfore good Father in time yet repent:</l>
+                  <l>And haue a reſpect vnto Chriſts Teſtament.</l>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <l>By the maſſe Robin I think thou art mad,</l>
+                  <l>
+                     <note place="margin">The bread of the needfull, is the life of the poore. Eccle. 3.4<g ref="char:punc">▪</g>
+                     </note>Should I feaſt beggers, mary fie for ſhame:</l>
+                  <l>I dare ſay it would make ſome gentlemen ſad,</l>
+                  <l>That all rich men ſhould haue ſuch a name.</l>
+                  <l>Yea I my ſelfe will confeſſe the ſame.</l>
+                  <l>Séeing it is my whole delight and pleaſure:</l>
+               </sp>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23841:3"/>
+               <head>Heere beginneth Mother <hi>Newgiſe <hi>to talke with</hi>
+                  </hi> Robin <hi>her Sonne, onely for the</hi> eaſe and pleaſure of this world. Very neceſ<g ref="char:EOLhyphen"/>ſary to be read and marked of all newfangled women, that they may auoide the <hi>de<g ref="char:EOLhyphen"/>ſires therof.</hi>
+               </head>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>SOone Robert I heard ſay that your Father and you,</l>
+                  <l>Haue had ſince you went great communication:</l>
+                  <l>Concerning our welth which you will not allow,</l>
+                  <l>You are of ſuch a ſtrange holy faſhion,</l>
+                  <l>But this ſhalbe only my preparation,</l>
+                  <l>To liue and goe gentle-like, gallant and gay:</l>
+                  <l>Séeing it is my chéefe deſire alway.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Mother, like as I ſaid of late vnto my Father,</l>
+                  <l>Euen ſo I ſay now vnto you certaine:</l>
+                  <l>I would wiſh you to deſire Gods kingdome rather,</l>
+                  <l>Then either welth, eaſe, pleaſure or gaine,</l>
+                  <l>Mother beware of apparell for it is but vaine.</l>
+                  <l>Wherfore good Mother marke this thing well:</l>
+                  <l>Yet liue and goe Chriſtian like after the Goſpell.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Sonne I will liue eaſily now in mine olde age,</l>
+                  <l>
+                     <note place="margin">A wicked deſire of new fan<g ref="char:EOLhyphen"/>gled Wo<g ref="char:EOLhyphen"/>men.</note>And alſo goe as gallantly as I can deuiſe:</l>
+                  <l>What though the people doo raile and rage,</l>
+                  <l>And ſay that I goe painted vp like butter-flyes,</l>
+                  <l>I will haue my clothes made of the new gife.</l>
+                  <l>To liue and goe gentle like, gallant and gay:</l>
+                  <l>Oh Sonne it is my cheefe deſire alway.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Yet Mother remember the vertuous good wiues,</l>
+                  <l>As Sara, Rebecea and Rachell, with many other moe:</l>
+                  <l>Which clothed them-ſelues all the dayes of their liues,</l>
+                  <l>With ſhamefaſtnes, chaſtitie and ſobrietie alſo,</l>
+                  <pb facs="tcp:23841:3" rendition="simple:additions"/>
+                  <l>Which contrary to their husbands minde would not goe.</l>
+                  <l>Wherfor good Mother marke this thing well:</l>
+                  <l>To liue and goe Chriſtian like after the goſpell.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Sonne what though your father would not haue me goe clad</l>
+                  <l>
+                     <note place="margin">Women of an euil condition</note> Now after my minde by him in gorgious apparrell:</l>
+                  <l>Should I be ruled by him? nay then I were mad,</l>
+                  <l>Yet had I rather with him pick a quarrell,</l>
+                  <l>Though I for my labour had ſtraight of the barrell.</l>
+                  <l>For to liue and goe gentle like, gallant and gay?</l>
+                  <l>By the maſſe it is my chéefe deſire alway.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>O Mother, ye be now in a wicked minde,</l>
+                  <l>Seeing you will diſobay your husband for this:</l>
+                  <l>You ſhow your ſelfe to be vnnaturall and vnkinde,</l>
+                  <l>And that you haue giuen him many a Iudas kiſſe,</l>
+                  <l>Your act will declare how you haue doon amiſſe.</l>
+                  <l>Wherfore good Mother marke this thing well:</l>
+                  <l>Yet liue and goe Chriſtian like after the Goſpell.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Sonne I will liue gentle like and goe at my pleaſure,</l>
+                  <l>Seeing thy Father for his ſubſtance might be a gentleman:</l>
+                  <l>And though he were poore and had but little treaſure,</l>
+                  <l>
+                     <note place="margin">A pointe of an vn<g ref="char:EOLhyphen"/>thriftye Huſwife,</note>Yet would I goe gallantly ſay he what he can,</l>
+                  <l>For I would borrow or els pledge pot, kettle or pan.</l>
+                  <l>To liue and goe gentle-like, gallant and gay:</l>
+                  <l>Séeing it is my chéefe deſire alway.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>O Mother I think you are paſt all ſhame,</l>
+                  <l>You would make a right good man to fret:</l>
+                  <l>Think you by your pledging to get you good name?</l>
+                  <l>Or by bringing your husband into danger or det?</l>
+                  <l>Fye that either rich or poore their mindes thus ſhould ſet.</l>
+                  <l>To maintaine their pride, wherfore murke this thing well:</l>
+                  <l>Liue and goe Chriſtian like after the goſpell,</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Am I paſt ſhame thou péelde apiſh boy?</l>
+                  <pb facs="tcp:23841:4"/>
+                  <l>Thou malapert knaue controleſt thou me?</l>
+                  <l>Thou ſhalt fare the woorſſe I ſwere by Saint Loy,</l>
+                  <l>
+                     <note place="margin">The brag of affinity that com<g ref="char:EOLhyphen"/>meth of Nobility.</note>Or any that are of thy ſect or propertie,</l>
+                  <l>Wilt thou be againſt my eſtate or degree?</l>
+                  <l>I come of the ſtocke to goe gallant and gay:</l>
+                  <l>Wherfore it is my cheefe deſire alway.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Mother I doo not diſpraiſe your ſtocke,</l>
+                  <l>Nor yet your owne perſon will I diſcommend:</l>
+                  <l>But I would haue you ſo liue to be of Chriſts flocke,</l>
+                  <l>And ſo aſke Godmercy, with pride whom ye offend,</l>
+                  <l>This is the hurt that I you pretend.</l>
+                  <l>Wherfore good Mother marke this thing well:</l>
+                  <l>Liue and goe Chriſtian like after the Goſpell.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>
+                     <note place="margin">A proude enterpriſe of the baſe ſorte of ſome wo<g ref="char:EOLhyphen"/>men now a dayes.</note>I pray thée Soone Robert tell me no ſuch tale,</l>
+                  <l>For I will goe frocked and in a french hood:</l>
+                  <l>I will haue my fine Caſſockes and my round Verdingale,</l>
+                  <l>Like one that came of a noble borne blood,</l>
+                  <l>By the maſſe to think of it, it dooth my hart good.</l>
+                  <l>To liue and goe gentle like, gallant and gay:</l>
+                  <l>Oh it is my chéefe deſire alway.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>With Nobilitie Mother you may not compare,</l>
+                  <l>Although ye be rich héere in worldly ſubſtance:</l>
+                  <l>Neither with apparrell nor yet ordinary fare,</l>
+                  <l>To be equall with them you may not your ſelfe inhaunce,</l>
+                  <l>For they haue their vocation, and you haue but your chance.</l>
+                  <l>Wherfore good Mother marke this thing well:</l>
+                  <l>Liue and goe Chriſtian like after the Goſpell.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Sonne, liue they not Chriſtian like that banket at the wine?</l>
+                  <l>And goeth in their billaments of fine pearle and golde?</l>
+                  <l>Alſo with broadered haire wherunto they inclne,</l>
+                  <l>Spending much yeerly this trade to vpholde,</l>
+                  <l>Thus ſetting foorth them ſelues both yong and olde.</l>
+                  <l>Is not this Chriſtian like, gallant and gay?</l>
+                  <pb facs="tcp:23841:4" rendition="simple:additions"/>
+                  <l>Sonne this doo I chéefly deſire alway.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Chriſtian like Mother: no I will not ſo ſay,</l>
+                  <l>But heathen indeed ſuch pompe doo vſe:</l>
+                  <l>Saint Paule and Saint Peter dooth ſet foorth the array,</l>
+                  <l>
+                     <note place="margin">Marke well.</note>what Chriſtian women ſhould take and refuſe,</l>
+                  <l>Weare ſover apparrell but deſire no newes.</l>
+                  <l>Wherfore good Mother marke this thing well:</l>
+                  <l>Liue and goe Chriſtian like after the Goſpell.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>To weare ſober apparrell, what me aneſt thou by that?</l>
+                  <l>My clothes are not drunke I would thou ſhouldſt knowe,</l>
+                  <l>I think thou ſpeakeſt by my red ſilk hat,</l>
+                  <l>But and I liue another yeer I will haue a better ſhowe,</l>
+                  <l>I will not goe thus ſluttiſhly I trowe.</l>
+                  <l>To liue and goe gentle like, gallant and gay:</l>
+                  <l>Séeing it is my cheefe deſire alway,</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Mother the ſober apparrell that I do meane,</l>
+                  <l>
+                     <note place="margin">Apparell for wome<g ref="char:cmbAbbrStroke">̄</g> both holy dayes and woorking dayes.</note>Is ſadnes, wiſdome, vertue and learning:</l>
+                  <l>Alſo your bodily apparell is comely to be ſeene,</l>
+                  <l>For your degree euen now in your going,</l>
+                  <l>It is not ſumptuous apparrell that is to Gods pleaſing.</l>
+                  <l>But a decent order, wherfore marke this thing well:</l>
+                  <l>Liue and goe Chriſtian like after the goſpell.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Sonne holde thy peace, for thy talke makes me weary,</l>
+                  <l>A Robin Robin, thou art a ſhrowd toward Childe:</l>
+                  <l>If thy Father were of thy minde, I could not be merry,</l>
+                  <l>
+                     <note place="margin">The deſpe<g ref="char:EOLunhyphen"/>rat minde of wicked women.</note>Nay I had rather be dead by ſweet Mary milde.</l>
+                  <l>Farwell, if thou prooueſt not a knaue I am beguilde.</l>
+                  <l>If I do not liue gentle like, to goe gallant and gay:</l>
+                  <l>By the maſſe I would I were hanged vp out of the way.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Such a tree, ſuch frute from it dooth proceed,</l>
+                  <l>Fye Mother fye, that you wiſh you ſuch ill:</l>
+                  <l>Repent your ſpeaking and beware of the deed,</l>
+                  <pb facs="tcp:23841:5"/>
+                  <l>Vnleſſe both your ſoule and body you doo kill:</l>
+                  <l>I feare that the deuill with you hath wrought his will.</l>
+                  <l>Now will I to my Siſter to giue her ſome counſell,</l>
+                  <l>For ſhe hath many tricks to bring her vnto hell.</l>
+               </sp>
+               <trailer>FINIS.</trailer>
+               <epigraph>
+                  <q>She Deuils are hard to turne.</q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <head>Heere <hi>Prowd Beautye</hi> beginneth to <hi>talke with</hi> Robin <hi>her Brother, for her proud fancye</hi> and wanton dallying: Very neceſſary to be read and marked of all Maydens that ſeeke the vaine glory of this world, and the vncomly trickes therin, that <hi>they may auoide the dangers therof: for feare of condemnation.</hi>
+               </head>
+               <sp>
+                  <speaker>The Maide.</speaker>
+                  <l>
+                     <note place="margin">The name of Gods woord to the blaſ<g ref="char:EOLhyphen"/>phemie therof.</note>BRother Robert, yeſterday as I vnderſtand,</l>
+                  <l>With my Father and Mother you were offended:</l>
+                  <l>With her for her apparell, and with him for his land,</l>
+                  <l>Thou wouldſt by the goſpell haue them amended,</l>
+                  <l>Mary I with my ſelfe haue thus pretended.</l>
+                  <l>To be faire and feate, nice and neate, is a gay thing:</l>
+                  <l>To colly and kis, my pleaſure it is, for all your new learning.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>New learning Siſter? what you be very bolde,</l>
+                  <l>Thus disdainfully to giue it ſuch a name:</l>
+                  <l>Gods woord indéed is both new and olde,</l>
+                  <l>To ſet a woorke all things in right frame,</l>
+                  <l>But you boaſt of knackes that will bring you to ſhame.</l>
+                  <l>Wherfore meaſure your pleaſure by Gods woord and will:</l>
+                  <l>And you ſhall finde that your minde is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>What whoriſh<g ref="char:punc">▪</g> you knaue, by the bleſſed maſſe</l>
+                  <l>Whore I am thus to sweare, God giue thée ſorrow,</l>
+                  <pb facs="tcp:23841:5" rendition="simple:additions"/>
+                  <l>
+                     <note place="margin">Euill woorde corrupt good maners.</note>Dout not if I can bring my maiſters to paſſe,</l>
+                  <l>I will haue knacks indeed (you knaue) by tomorrow,</l>
+                  <l>Yet will I for them neither beg, ſteale nor horrow.</l>
+                  <l>Oh to be faire and feate, nice and neate is a gay thing:</l>
+                  <l>To colly and kis, my pleaſure it is for all your new learning.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Siſter, it becommeth maides to be gentle of ſpeach,</l>
+                  <l>Both to man, wife and childe, wherſoeuer they gee:</l>
+                  <l>That your woords and woorkes your children may teache,</l>
+                  <l>To liue in the feare of God héerafter alſo,</l>
+                  <l>Would you be and doo as you li<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> no ſiſter no.</l>
+                  <l>But meaſure your pleaſure by Gods woord and will:</l>
+                  <l>And you ſhall finde that your minde is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>Iack ſauce (I ſay) thou lout, thou hoddie peake,</l>
+                  <l>I defie thy teaching I would thou know:</l>
+                  <l>Dooſt thou take vpon thee to learne me ſpeake,</l>
+                  <l>By the maſſe but for ſhame thou ſhouldſt beare me a blow,</l>
+                  <l>As I am of perſon ſo my behauiour ſhall ſhow.</l>
+                  <l>Oh to be faire and feate, nice and neate is a gay thing:</l>
+                  <l>To colly and kis my pleaſure it is for all your new learning.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Salomon declareth this by the beautifull rout,</l>
+                  <l>A faire woman without diſcrete manners (ſaith he)</l>
+                  <l>Is like a ring of golde on a Swines ſnout,</l>
+                  <l>The which is a thing ſiſter vncomely to ſee,</l>
+                  <l>And now ſurely by you it well may ſpoken be.</l>
+                  <l>If you meaſure your pleaſure by Gods woord and will:</l>
+                  <l>You ſhall finde that your minde is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>By my troth for a knaue I will thée allow,</l>
+                  <l>All the dayes of thy life thou ſhalt be none other:</l>
+                  <l>Dooſt thou liken me and my maners vnto a ſow?</l>
+                  <l>Mary I defie thée though thou art my brother,</l>
+                  <l>Sir my faſhions doo pleaſe my Father and Mother.</l>
+                  <l>Oh to be faire and feate, nice and neate is a gay thing:</l>
+                  <l>To colly and kis, my pleaſure it is for all your new learning.</l>
+               </sp>
+               <pb facs="tcp:23841:6"/>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Siſter, can you be fayrer then God hath you made,</l>
+                  <l>Feater or neater, by policye or wit?</l>
+                  <l>I aſke you becauſe your coulour oft dooth fade,</l>
+                  <l>And your clothes very groſſely about you do ſit,</l>
+                  <l>If you vſe any thing not honeſt and fit,</l>
+                  <l>Then meaſure your pleaſure, by Gods woord and will:</l>
+                  <l>And you ſhall finde that your minde is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>
+                     <note place="margin">The prac<g ref="char:EOLunhyphen"/>tiſes and motions of Sathan and are vſed of thoſe that be his fa<g ref="char:EOLhyphen"/>thers dar<g ref="char:EOLhyphen"/>lings now a dayes.</note>If God make my face as browne as a berry,</l>
+                  <l>I can painte it white and ruddiſh withall:</l>
+                  <l>And if God make me looke as red as a Cherry,</l>
+                  <l>I can drie vp my blood with Chalke in a wall,</l>
+                  <l>If God make me groſſe, I can pent my ſelfe ſmall</l>
+                  <l>To be faire and feate nice and neate is a gay thing:</l>
+                  <l>To colly and kiſſe my pleaſure it is, for all your new learning</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Oh what a damnable euill, that either Chriſtian or Turke.</l>
+                  <l>Should tranſ-forme them ſelues from their firſt creation:</l>
+                  <l>What Lucifer woman will amend Gods woorke,</l>
+                  <l>They farre excell the Sodomites in this abomination,</l>
+                  <l>O pride out of meaſure, O ſathans generation,</l>
+                  <l>Meaſure this pleaſure by Gods woord and will:</l>
+                  <l>And you ſhall finde that your mind is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>Tuſh I can dye my haire be it neuer ſo black,</l>
+                  <l>I can make it ſhine like golde in a little ſpace:</l>
+                  <l>
+                     <note place="margin">The wor<g ref="char:EOLhyphen"/>kes of the euill.</note>Alſo to tire vp my head I haue ſuch a knack,</l>
+                  <l>That ſome maides will delight to follow my trace,</l>
+                  <l>I can lay out my haire to ſet out my face.</l>
+                  <l>Oh to be faire and feate, nice and neate is a gay thing:</l>
+                  <l>To colly and kiſſe my pleaſure it is for all your new learning</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>To dye and to fleare your haire ſo abroad,</l>
+                  <l>Surely ſiſter you doo it ſhamfully vſe:</l>
+                  <l>For with the Scriptures it dooth not accord,</l>
+                  <l>That maides nor wiues their haire ſhould ſo abuſe,</l>
+                  <pb facs="tcp:23841:6" rendition="simple:additions"/>
+                  <l>Couer it for ſhame it is the vſe of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Wherfore meaſure your pleaſure vp Gods woord and <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>And you ſhall finde that your minde is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>
+                     <note place="margin">The dec<g ref="char:EOLhyphen"/>king and balming of proud liuing Idols.</note>Brother thou art but a foole me thus ſo checke,</l>
+                  <l>For I will haue my Pomande is of <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſmell:</l>
+                  <l>Alſo my Chaines of golde to hang about my necke,</l>
+                  <l>And my broadered haire while I at home dwell,</l>
+                  <l>Stomachers of golds becommeth me well.</l>
+                  <l>To be faire and feate, nice and neate is a gay thing:</l>
+                  <l>To colly and kis my pleaſure it is, for all your new learning.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Siſter, in the third of Eſay the Lord ſaith plaine,</l>
+                  <l>For your broadered haire you ſhall haue baldnes:</l>
+                  <l>For your Chaines of golde you ſhall haue halters certaine,</l>
+                  <l>For your Pomanders and muſke, you ſhal haue ſtink doutles</l>
+                  <l>And for your ſtomachers, ſack-cloth this he dooth confes.</l>
+                  <l>Wherfore meaſure your pleaſure by Gods woord and will:</l>
+                  <l>And you ſhall finde that your minde is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>If the Lord plague all thoſe that ſo leade their liues,</l>
+                  <l>With halters and ſtinkings and with baldnes of head:</l>
+                  <l>Great ſhame it will be both for maidens and wiues,</l>
+                  <l>
+                     <note place="margin">Feare and ſhame, much fin doth tame</note>That ſo tire them ſelues dayly till they goe to bed,</l>
+                  <l>To be thus plagued, marry I had rather to be dead.</l>
+                  <l>To be faire and feate, nice and neate is a gay thing:</l>
+                  <l>To colly and kis my pleaſure it is for all your new learning.</l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Siſter, your colling and kiſſing will haue an euill end,</l>
+                  <l>To clatter and flatter is no maidenlike way:</l>
+                  <l>Your gladnes and madnes dooth God ſore offend,</l>
+                  <l>To intice men to vice is all your chéefeſt play,</l>
+                  <l>In their ſight your delight is for to goe gay.</l>
+                  <l>Wherfore meaſure your pleaſure by Gods woord and will:</l>
+                  <l>And you ſhall finde that your minde is whoriſh and ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Maide.</speaker>
+                  <l>I perceiue that thou wouldſt haue me liue like a mome,</l>
+                  <pb facs="tcp:23841:7"/>
+                  <l>I will talke no <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> I muſt depart</l>
+                  <l>By the <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>My <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>If thou be thy talk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Father conuert</l>
+                  <l>Then <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Were <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <l>Siſter <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> haue you and ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> if it be his pleaſure,</l>
+                  <l>And preſent to <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> your life is now euill<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Look in <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to haue heauenly treaſure,</l>
+                  <l>There <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to be med<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your proud har<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to kill,</l>
+                  <l>Make haſte for to taſte of Gods holy will.</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it is he <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to thoſe that be penitent:</l>
+                  <l>Wherfore yet euermore <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Chriſts Teſtament.</l>
+               </sp>
+               <trailer>FINIS.</trailer>
+               <epigraph>
+                  <q>
+                     <l>To talke well with ſome women dooth as much good:</l>
+                     <l>As a ſicke man to eate vp a loade of greene wood.</l>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>AT London Printed by Edward Allde.</p>
+            <pb facs="tcp:23841:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
